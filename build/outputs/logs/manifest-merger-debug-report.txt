@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:UIReferenceImplementation] G:\HandWritingSDK\interactive-ink-examples-android\UIReferenceImplementation\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\74a833e70eeb23c37f12b8e4a5b7a5af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b330ff5a5ee097ad5eeab5e9150849cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8086ea42a3a59d605f84a239577b41de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\be6af2248548341203d205e90e822730\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c91dc42abd544d8cd319099e35ace3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\335ad9d0ab69f7958dd2a93d8944b61a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ab09201b2eba073d65def308334d259b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6daa42b5bb9521da99e3105500cdbee2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\56b62bc8e9b550caa791a40c80592b3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c1c41ff3642855f865a1ca2326311f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\893539553ff33e4932d118a3b234ca9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\87a0adc62c684af267667ac773fc00bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\92e1a56ac7f5a70bf1d5539e7ad49ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7704f9987cf19af8633925c9389707fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8f0dfc2c00c699f2ae9b8f8bcc94e77e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9fdfbff30b9e84d582269d1124d00f34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a789a5301b6ec36c20312149a9fc450a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c9166c7e1c18cfcb77e9501e6b9adc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2bde56472aa585ee7510bb5a4c6a5054\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6112cf56f92ce66a37d8386abf38fbf9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2dfa2691eff56d3737c22556eef66f5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dfb0b19ad03e12968912512da3ef72e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1883938fc8c8d87fe9acd60cb385ebc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04cd8afe13e6b217f6309c59ef8b1fff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\768b353044fa6a946bf0c7c82fba9c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.myscript:iink:1.3.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\iink-1.3.1.aar\bf06da64f9d627014547e47e22153245\AndroidManifest.xml:2:1-11:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8f0dfc2c00c699f2ae9b8f8bcc94e77e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8f0dfc2c00c699f2ae9b8f8bcc94e77e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:6:9-40
+activity#com.myscript.iink.demo.MainActivity
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:14:13-45
+	android:launchMode
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:15:13-44
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:18:27-74
+activity#com.myscript.iink.demo.ErrorActivity
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:22:9-27:20
+	android:screenOrientation
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:24:13-45
+	android:launchMode
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:23:13-42
+uses-permission#android.permission.INTERNET
+ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml:31:22-64
+uses-sdk
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+MERGED from [:UIReferenceImplementation] G:\HandWritingSDK\interactive-ink-examples-android\UIReferenceImplementation\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:UIReferenceImplementation] G:\HandWritingSDK\interactive-ink-examples-android\UIReferenceImplementation\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\74a833e70eeb23c37f12b8e4a5b7a5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\74a833e70eeb23c37f12b8e4a5b7a5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b330ff5a5ee097ad5eeab5e9150849cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b330ff5a5ee097ad5eeab5e9150849cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8086ea42a3a59d605f84a239577b41de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8086ea42a3a59d605f84a239577b41de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\be6af2248548341203d205e90e822730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\be6af2248548341203d205e90e822730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c91dc42abd544d8cd319099e35ace3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7c91dc42abd544d8cd319099e35ace3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\335ad9d0ab69f7958dd2a93d8944b61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\335ad9d0ab69f7958dd2a93d8944b61a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ab09201b2eba073d65def308334d259b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ab09201b2eba073d65def308334d259b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6daa42b5bb9521da99e3105500cdbee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6daa42b5bb9521da99e3105500cdbee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\56b62bc8e9b550caa791a40c80592b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\56b62bc8e9b550caa791a40c80592b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c1c41ff3642855f865a1ca2326311f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9c1c41ff3642855f865a1ca2326311f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\893539553ff33e4932d118a3b234ca9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\893539553ff33e4932d118a3b234ca9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\87a0adc62c684af267667ac773fc00bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\87a0adc62c684af267667ac773fc00bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\92e1a56ac7f5a70bf1d5539e7ad49ddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\92e1a56ac7f5a70bf1d5539e7ad49ddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7704f9987cf19af8633925c9389707fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7704f9987cf19af8633925c9389707fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\20cb6748191e7a18a7b28373f72d6021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8f0dfc2c00c699f2ae9b8f8bcc94e77e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8f0dfc2c00c699f2ae9b8f8bcc94e77e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9fdfbff30b9e84d582269d1124d00f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9fdfbff30b9e84d582269d1124d00f34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a789a5301b6ec36c20312149a9fc450a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a789a5301b6ec36c20312149a9fc450a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c9166c7e1c18cfcb77e9501e6b9adc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4c9166c7e1c18cfcb77e9501e6b9adc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2bde56472aa585ee7510bb5a4c6a5054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2bde56472aa585ee7510bb5a4c6a5054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6112cf56f92ce66a37d8386abf38fbf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6112cf56f92ce66a37d8386abf38fbf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2dfa2691eff56d3737c22556eef66f5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2dfa2691eff56d3737c22556eef66f5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dfb0b19ad03e12968912512da3ef72e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\dfb0b19ad03e12968912512da3ef72e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1883938fc8c8d87fe9acd60cb385ebc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1883938fc8c8d87fe9acd60cb385ebc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04cd8afe13e6b217f6309c59ef8b1fff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\04cd8afe13e6b217f6309c59ef8b1fff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\768b353044fa6a946bf0c7c82fba9c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\768b353044fa6a946bf0c7c82fba9c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.myscript:iink:1.3.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\iink-1.3.1.aar\bf06da64f9d627014547e47e22153245\AndroidManifest.xml:7:5-9:41
+MERGED from [com.myscript:iink:1.3.1] C:\Users\Raihana\.gradle\caches\transforms-1\files-1.1\iink-1.3.1.aar\bf06da64f9d627014547e47e22153245\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		ADDED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
+		INJECTED from G:\HandWritingSDK\interactive-ink-examples-android\Demo\src\main\AndroidManifest.xml
